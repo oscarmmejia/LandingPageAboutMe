@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
+    background-color: #0F172A;
     color: #222222;
     margin: 0;
     padding: 20px;
@@ -19,17 +19,16 @@ header {
 }
 
 h1 {
-    color: #b22222;
-    background-color: #ffe4b5;
+    color: #000080;
+    background-color: #64ffda;
     font-weight: bold;
-    text-decoration: underline;
     padding: 10px;
 }
 
 h2 {
-    color: #006400;
+    color: #000080;
     font-style: italic;
-    background-color: #fff8dc;
+    background-color: #64ffda;
     padding: 8px;
 }
 
@@ -58,10 +57,9 @@ u {
 }
 
 article {
-    background-color: #ffffff;
+    background-color: #64ffda;
     padding: 15px;
     margin-bottom: 20px;
-    border-radius: 8px;
 }
 
 img {
@@ -75,4 +73,5 @@ footer {
     text-align: center;
     font-weight: bold;
     margin-top: 20px;
+    color: #ffffff;
 }
